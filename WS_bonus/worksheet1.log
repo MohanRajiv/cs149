@@ -1,0 +1,16 @@
+ 1034  nano user/usertests.c\n
+ 1035  make qemu\n
+ 1036  nano user/usertests.c\n
+ 1037  make qemu\n
+ 1038  brew install qemu\n
+ 1039  which qemu-system-riscv64\n
+ 1040  make clean\n
+ 1041  make qemu\n
+ 1042  ls user/sleep.c\n
+ 1043  nano user/sleep.c\n
+ 1044  ls user/sleep.c\n
+ 1045  ls Makefile
+ 1046  nano Makefile
+ 1047  make clean\n
+ 1048  make qemu\n
+ 1049  ./grade-lab-util sleep\n
