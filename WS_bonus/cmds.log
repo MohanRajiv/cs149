@@ -1,0 +1,16 @@
+ 1000  ls -l 
+ 1001  pwd
+ 1002  cd ~
+ 1003  cd Desktop/
+ 1004  ls -latr
+ 1005  mkdir cs149
+ 1006  cd cs149
+ 1007  git init 
+ 1008  git remote add origin https://github.com/MohanRajiv/cs149.git
+ 1009  git config --global user.email "mohanrajiv092@gmail.com"
+ 1010  git config --global user.name "Rajiv"\n
+ 1011  mkdir WS_bonus
+ 1012  cd WS_bonus
+ 1013  git add .\n
+ 1014  wget -O out.pdf https://tinyurl.com/yy94jltt\n
+ 1015  ls -latr\n
